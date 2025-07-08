@@ -23,15 +23,8 @@ This documentation helps consolidate my understanding of:
 
 ### 2. DevOps Foundations
 - `02_DevOps_Foundations/What-is-DevOps.md` – Why DevOps exists and how it addresses Agile’s gaps
-- `02_DevOps_Foundations/DevOps-vs-Agile.md` – Comparison between Agile and DevOps
-- `02_DevOps_Foundations/DevOps-Lifecycle.md` – DevOps lifecycle stages and tools at each stage
-- `02_DevOps_Foundations/DevOps-Benefits-Challenges.md` – Benefits of DevOps and implementation challenges
-
-### 3. CI/CD Explained
-- `03_CI_CD_Pipeline/CI-CD-Introduction.md` – What CI/CD is and why it matters
-- `03_CI_CD_Pipeline/CI-vs-CD.md` – Difference between Continuous Delivery and Continuous Deployment
-- `03_CI_CD_Pipeline/CI-CD-Tools.md` – Common tools used in a DevOps pipeline
-- `03_CI_CD_Pipeline/CI-CD-Pipeline-Step-by-Step.md` – Step-by-step breakdown of a typical CI/CD pipeline
+- `02_DevOps_Foundations/DevOps-Lifecycle.md` – DevOps lifecycle stages, Benifites and Drawbacks
+- `02_DevOps_Foundations/CICD_In_Detail.md` - What is CI/CD? Difference between Continuous Delivery and Continuous Deployment? and Step-by-step breakdown of a typical CI/CD pipeline.
 
 ---
 
